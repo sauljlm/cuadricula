@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAU;EACN,KAAK,EAAE,KAAY;;AAGvB,SAAS;EACL,KAAK,ECFC,KAAK;EDGX,MAAM,ECHA,KAAK;EDIX,KAAK,EAAC,IAAI;EACV,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,eAAe;;AAG3B,yBAAyB;EACrB,gBAAgB,ECXZ,KAAK;;ADab,wBAAwB;EACpB,gBAAgB,ECfb,KAAK",
+"sources": ["../sass/partials/_menu.scss","../sass/includes/_settings.scss"],
+"names": [],
+"file": "stilos.css"
+}

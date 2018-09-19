@@ -1,0 +1,20 @@
+.container{
+    width: $sizeBox * 8;
+   
+}
+.line div{
+    width: $sizeBox;
+    height: $sizeBox;
+    float:left;
+    position: relative;
+    border: 1px solid black;
+}
+
+.line div:nth-child(even){
+    background-color: $white;
+}
+.line div:nth-child(odd){
+    background-color: $black;
+}
+
+
